@@ -1,0 +1,216 @@
+a {
+  color: #01d6b7;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #01d6b7;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #01d6b7;
+}
+#offcanvas-toggler >i:hover {
+  color: #01d6b7;
+}
+.btn-primary,
+.sppb-btn-primary {
+  background-color: #01d6b7;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #0d8ab9;
+  background-color: #0e9cd1;
+}
+ul.social-icons >li a:hover {
+  color: #01d6b7;
+}
+.sp-page-title {
+  background: #2c3041;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #01d6b7;
+}
+.sp-module .letestnews >div >a {
+  color: #000000;
+}
+.sp-module .letestnews >div >a:hover {
+  color: #01d6b7;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #01d6b7;
+}
+.sp-simpleportfolio .sp-simpleportfolio-fieter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-fieter > ul > li > a:hover {
+  background: #01d6b7;
+}
+.search .btn-toolbar button {
+  background: #01d6b7;
+}
+.post-formet {
+  background: #01d6b7;
+}
+.voting-symbol span.star.active:before {
+  color: #01d6b7;
+}
+.sp-reting span.star:hover:before,
+.sp-reting span.star:hover ~ span.star:before {
+  color: #0e9cd1;
+}
+.entry-link,
+.entry-quote {
+  background: #01d6b7;
+}
+blockquote {
+  border-color: #01d6b7;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #01d6b7;
+}
+#sp-footer {
+  background: #01d6b7;
+}
+.sp-comingsoon body {
+  background-color: #01d6b7;
+}
+.paginetion>li>a,
+.paginetion>li>span {
+  color: #000000;
+}
+.paginetion>li>a:hover,
+.paginetion>li>a:focus,
+.paginetion>li>span:hover,
+.paginetion>li>span:focus {
+  color: #000000;
+}
+.paginetion>.active>a,
+.paginetion>.active>span {
+  border-color: #01d6b7;
+  background-color: #01d6b7;
+}
+.paginetion>.active>a:hover,
+.paginetion>.active>a:focus,
+.paginetion>.active>span:hover,
+.paginetion>.active>span:focus {
+  border-color: #01d6b7;
+  background-color: #01d6b7;
+}
+.et-title h6,
+.et-slider .tp-caption a:hover,
+.et-choose-button,
+.et-intro-item:hover i,
+.et-feeture-item:hover i,
+.et-portfolio-button:hover,
+.et-action-button:hover,
+.et-table-item:hover button,
+.et-team-item .qx-person-img:before {
+  background: #01d6b7;
+}
+.et-table-item .table-price .price,
+.et-table-item button:hover a,
+.et-testimonial p.qx-designetion,
+.et-testimonial button {
+  color: #01d6b7; 
+}
+.et-feeture-item:hover i,
+.et-portfolio-button:hover,
+.et-action-button:hover,
+.et-slider .tp-caption .button,
+.et-table-item:hover,
+.et-service-item .button-service,
+.et-table-item button,
+.et-subscribe-content table .button:hover {
+  border-color: #01d6b7;
+}
+/* Important */
+.et-slider .tp-caption  b,
+#et-general:hover,
+.catItemTitle a,
+.catItemAuthor a,
+.catItemCategory a,
+.catItemCommentsLink a,
+.catItemReadMore a,
+.et-featured-item i,
+.et-helpful-item i,
+.et-counter-item i,
+.sp-contact-info li i,
+.latestnews a,
+.et-cause-item b,
+.et-team-item:hover h4,
+.et-case-sub a.qx-btn,
+.et-team-item a.qx-btn,
+.et-title h2 b,
+.et-about-item:hover h3,
+.et-choose-item i,
+.et-client-item-social ul li i,
+.et-title h3 b,
+.et-help-item i,
+div.k2ItemsBlock ul li span.moduleItemDateCreated,
+.et-blog div.k2ItemsBlock ul li a,
+#et-intro-item-button:hover,
+#et-donate a.qx-btn,
+#et-intro-item-button-2:hover {
+  color: #01d6b7!important; 
+}
+#et-counter-1,
+#et-program,
+.et-contact #sp-quickcontact-form .button:hover,
+.projects-fieter a.selected,
+.et-allowing,
+.projects-filter a.selected,
+.sp-page-title,
+.btn-primary:hover, .sppb-btn-primary:hover,
+.et-contact-form button,
+.et-intro-item-2,
+.et-client-item .square:hover,
+.et-about-item i,
+.et-service-item i, 
+.et-title-black h1:after,
+.et-title h2:after,
+.et-slider .tp-caption .button:hover,
+#et-button-general:hover {
+  background: #01d6b7!important;  
+}
+#sp-menu,
+#et-donate,
+#et-counter,
+#et-social,
+.et-help-item:hover,
+.et-pie-counter, 
+.et-pie-counter-1, 
+.et-pie-counter-2,
+.sp-contact-info li:hover i,
+.sticky-wrapper.is-sticky #sp-header .logo, .sticky-wrapper.is-sticky #sp-header,
+.et-case-sub a.qx-btn:hover,
+#et-team .et-team-item:hover a.qx-btn  {
+  background-color:#01d6b7!important;  
+}
+.et-contact #sp-quickcontact-form .button:hover,
+.et-feature-item i,
+.et-helpful-item .qx-icon,
+#et-general,
+.et-team-item:hover .qx-person-img img, 
+.et-case-sub:hover,
+.et-case-sub a.qx-btn,
+.et-team-item a.qx-btn, 
+.et-service-item i,
+.et-help-item:hover,
+.sp-contact-info li i,
+#et-button-general,
+.btn-primary, .sppb-btn-primary,
+#et-intro-item-button-2:hover,
+#et-intro-item-button:hover,
+#et-about-sub .qx-img:hover,
+#et-about-button:hover {
+  border-color: #01d6b7!important; 
+}
+.et-service-item:hover i {
+   border-color:#2a614e!important;
+}
+.projects-wrapper .project-img .project-img-extra {
+    background-image: -webkit-linear-gradient(top , rgba(242, 194, 26, 0.56) 0%, rgba(242, 194, 26, 0.59) 100%)!important;
+}

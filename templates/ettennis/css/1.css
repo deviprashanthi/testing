@@ -1,0 +1,36 @@
+.lt-learn-more .qx-btn
+
+.lt-learn-more .qx-btn {
+    color: #333;
+    padding: 10px 50px;
+    border-radius: 0px;
+    font-size: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    border-width: 1px;
+}
+.lt-learn-more .qx-btn:hover {
+  background-color: #ffffff!important;
+  color: #333!important;
+}
+.lt-learn-more .qx-btn:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #fff;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transform-origin: 50%;
+    transform-origin: 50%;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
